@@ -13,3 +13,9 @@ var miFuncion = function(a,b) {
 }
 
 miFuncion();
+
+function saludar(nombre) {
+	console.log(`Hola ${nombre}`);
+}
+
+saludar('Diego');
