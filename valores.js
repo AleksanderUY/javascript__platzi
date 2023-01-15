@@ -2,13 +2,16 @@
 
 "texto o strings" // strings
 
-// boolean
+/* // boolean
 true
-false
+false */
 
-null // reservado para un valor
-undefined // reservado para un valor
+/* null // reservado para un valor
+undefined // reservado para un valor */
 
 
-[1,2,3] // array o arreglo
+/* [1,2,3] // array o arreglo
 {nombre: "diego"} // esto es un objeto o valor tipo objeto
+
+console.log(true); */
+
