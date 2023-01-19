@@ -1,4 +1,4 @@
-var numero = 1;
+/* var numero = 1;
 
 switch (numero) {
     case 1:
@@ -12,4 +12,5 @@ switch (numero) {
         break;
     default:
         break;
-}
+} */
+
